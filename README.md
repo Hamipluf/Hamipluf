@@ -1,4 +1,4 @@
-![image](https://github.com/Hamipluf/Hamipluf/assets/106025683/43816999-b9f8-4d55-9d80-91cb26022e18)<h3 title="hehehe"> Hey 👋, I'm Ramiro Gumma! FullStack MERN</h3>
+<h3 title="hehehe"> Hey 👋, I'm Ramiro Gumma! FullStack MERN</h3>
 
 <a href="https://www.linkedin.com/in/ramiro-gabriel-gumma-400993240/">
   <img align="left" alt="Ramiro Gumma LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
