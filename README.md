@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/ramiro-gabriel-gumma-400993240/">
   <img align="left" alt="Ramiro Gumma LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://portafolio-nextjs-omega.vercel.app/">
+<a href="https://portafolio-astro-mocha.vercel.app/">
   <img align="left" alt="Jaskirat's Facebook" width="24px" src="https://cdn-icons-png.flaticon.com/512/977/977597.png" />
 </a>
 
