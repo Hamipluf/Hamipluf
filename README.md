@@ -19,7 +19,7 @@ I **TURN IDEAS INTO CODE** fusing creativity and robustness to ***DRIVE EXCEPTIO
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
-- 👨🏽‍💻 I am currently a FullStack MERN Freelancer.
+- 👨🏽‍💻 I am currently a Developer FullStack MERN.
 - 🤓 I studied at CoderHouse and self-learning.
 - 🌱 I am currently exploring AI with a keen interest in its development. 
 - 🤔 My interest lies in Backend web development.
