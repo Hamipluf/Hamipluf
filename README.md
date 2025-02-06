@@ -19,12 +19,13 @@ I **TURN IDEAS INTO CODE** fusing creativity and robustness to ***DRIVE EXCEPTIO
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
-- 👨🏽‍💻 I am currently a Developer FullStack MERN.
+- 👨🏽‍💻 I´m currently a Developer FullStack MERN.
 - 🤓 I studied at CoderHouse and self-learning.
-- 🌱 I am currently exploring AI with a keen interest in its development. 
+- 🌱 I´m currently exploring AI with a keen interest in its development. 
+- ℹ️ I´m certificated for Mercado Libre, CoderHouse and HackerRank.
 - 🤔 My interest lies in Backend web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [ramirogumma@hotmail.com](mailto:ramirogumma@hotmail.com).
+- 📫 Email me at [ramirogumma@gmail.com](mailto:ramirogumma@gmail.com).
 
 
 
